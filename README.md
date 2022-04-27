@@ -4,7 +4,7 @@
 
 ## I'm a Front-end Developer
 
-I really enjoy learning languages and frameworks like React :muscle: I also enjoy ui, ux and design in general.
+I really enjoy learning languages and frameworks like React :muscle: I also enjoy UI, UX and design in general.
 
 <br/>
 
