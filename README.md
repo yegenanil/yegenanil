@@ -1,21 +1,15 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="250" align="right" />
 
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Anıl
+### Hi there, I'm Anıl <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ## I'm a Front-end Developer
 
-I really enjoy learning languages and frameworks like React :muscle: I also enjoy UI, UX and design in general.
+I am a passionate developer who recently switched from communication technologies to web technologies. I have been working with JavaScript web applications and have learned a lot of different techniques and technologies. I am eager to learn new technologies and methods to develop a product every day.
+
 
 <br/>
 
-- 🌱 I’m currently learning everything :rofl:
-- ⚡ Fun fact I play video games
-- 📫 How to reach me ygnanil@gmail.com
-- :coffee: https://anilyegen.netlify.app/
-- :paintbrush: I converted Figma, Sketch, Adobe
-XD etc. designs to React components
-
-
+📫 ygnanil@gmail.com
 
 <br/>
 
@@ -31,10 +25,10 @@ XD etc. designs to React components
 <br/>
 <br/>
 
-## Connect with me:
+## Social Media:
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/an%C4%B1l-ye%C4%9Fen-02ab9a1a8/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YegenAn)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ygnanil/) 
+
 
 
 
