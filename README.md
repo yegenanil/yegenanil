@@ -12,8 +12,9 @@ I really enjoy learning languages and frameworks like React :muscle: I also enjo
 - ⚡ Fun fact I play video games
 - 📫 How to reach me ygnanil@gmail.com
 - :coffee: https://anilyegen.netlify.app/
--Custom design to React I converted Figma, Sketch, Adobe
+- :paintbrush: Custom design to React I converted Figma, Sketch, Adobe
 XD etc. designs to React components
+
 
 
 <br/>
