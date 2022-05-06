@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Anıl <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## I'm a Front-end Developer
+## I'm a Front End Developer
 
 I am a passionate developer who recently switched from communication technologies to web technologies. I have been working with JavaScript web applications and have learned a lot of different techniques and technologies. I am eager to learn new technologies and methods to develop a product every day.
 
