@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="250" align="right" />
-
 ### Hi there, I'm Anıl <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ## I'm a Front End Developer
