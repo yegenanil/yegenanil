@@ -1,8 +1,6 @@
 ### Hi there, I'm Anıl <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-## I'm a Front End Developer
-
-I am a passionate developer who recently switched from communication technologies to web technologies. I have been working with JavaScript web applications and have learned a lot of different techniques. Recently, React took my attention and i've been developing apps with it. I am eager to learn new technologies and methods to develop a product every day.
+As a frontend developer, I have experience in building web applications and designing engaging user interfaces. Staying updated with the latest frontend development practices and continuously improving my skills is my passion.
 
 
 <br/>
