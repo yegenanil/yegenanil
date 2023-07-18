@@ -30,7 +30,7 @@ As a frontend developer, I have experience in building web applications and desi
 
 ## Social Media:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/an%C4%B1l-ye%C4%9Fen-02ab9a1a8/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anilyegen)
 
 
 
