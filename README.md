@@ -1,6 +1,6 @@
 ### Hi there, I'm Anıl <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-As a frontend developer, I have experience in building web applications and designing engaging user interfaces. Staying updated with the latest frontend development practices and continuously improving my skills is my passion.
+As a frontend developer, I build web applications and design engaging user interfaces. Lately, I've developed a strong interest in 3D web development, particularly with Three.js and React-Three-Fiber. I'm currently exploring these tools as a hobby and working to improve my skills in this area.
  
 <br/>
 
